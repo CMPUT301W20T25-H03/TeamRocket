@@ -2,5 +2,5 @@ package com.example.teamrocket;
 
 public abstract class Shape {
     int x, y;
-    private String color;
+    String color = "$PUT_YOUR_CHOICE_OF_COLOR";
 }
