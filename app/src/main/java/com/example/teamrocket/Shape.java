@@ -1,4 +1,5 @@
 package com.example.teamrocket;
 
-public class Shape {
+public abstract class Shape {
+    int x, y;
 }
